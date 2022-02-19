@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1594724740 source:e:\codeblocks projects\sudoku\src\sudoku.cpp
+	"Sudoku.h"
+
+1594904671 e:\codeblocks projects\sudoku\include\sudoku.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1594904622 source:e:\codeblocks projects\sudoku\main.cpp
+	<iostream>
+	<Sudoku.h>
+	<fstream>
+
